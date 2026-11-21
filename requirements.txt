@@ -1,7 +1,6 @@
 streamlit
 ultralytics
 groq
+numpy==1.26.4
 opencv-python-headless==4.10.0.84
-numpy<2
 Pillow
-pandas
